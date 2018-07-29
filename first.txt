@@ -1,4 +1,4 @@
-//line for conflict
+//line for to resolve conflict
 //first line
 //second line
 //3rd line
